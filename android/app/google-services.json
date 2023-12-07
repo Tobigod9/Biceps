@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "759125692065",
+    "project_id": "prueba-c36ba",
+    "storage_bucket": "prueba-c36ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759125692065:android:bfcecfd6951b7d268e2ae0",
+        "android_client_info": {
+          "package_name": "com.example.produccion_integradora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAah-WUfW4CfCYJLhfh91sNreOvUXKRBik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759125692065:android:7b430cb341fe91128e2ae0",
+        "android_client_info": {
+          "package_name": "com.example.prueba_integradora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAah-WUfW4CfCYJLhfh91sNreOvUXKRBik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
